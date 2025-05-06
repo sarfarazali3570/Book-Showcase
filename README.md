@@ -1,4 +1,4 @@
-# 📚 Book Heaven
+# 📚 Book Showcase
 
 Welcome to **Book Heaven**!  
 This project is built using **Vite**, a lightning-fast build tool, and **React**, one of the most powerful libraries for building user interfaces. It showcases curated lists of books across categories like Fiction, Non-Fiction, and Science.
